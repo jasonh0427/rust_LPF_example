@@ -1,0 +1,10 @@
+/target
+/Cargo.lock
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+*.code-workspace-insiders
